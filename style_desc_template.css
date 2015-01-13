@@ -1,0 +1,60 @@
+body {
+	font-family: Tangerine;
+	background-color: #FDFBF5;
+}
+
+.heading {
+	font-size: 100px;
+	font-family: Tangerine;
+	position: auto;
+	text-align: center;
+	
+}
+
+.navigation {
+	background-color: #E6E6E6;
+	height: 50px;
+	margin: 0 auto;
+}
+
+.navbar {
+	margin: 0 auto;
+	width: 610px;
+	padding-top: 3px;
+	position: relative;
+}
+
+#nav_button {
+	background-color: #FFFFFF;
+	color: #000000;
+	display: inline-block;
+	height: 40px;
+	width: 200px;
+	margin: 0 auto;
+	position: center;
+	text-align: center;
+	vertical-align: middle;
+	line-height: 40px;
+	font-family: Tangerine;
+	font-size: 50px;
+}
+
+
+.description {
+	padding-top: 10px;
+	padding-bottom: 50px;
+	width: 740px;
+	background-color: #E6E6E6;
+	margin: 0 auto;
+	position: relative;
+	text-align: left;
+	font-family: Tangerine;
+	display: block;
+}
+	
+.description p {
+	padding-left: 20px;
+	padding-right: 20px;
+	text-align: justify;
+	font-size: 35px;
+}
