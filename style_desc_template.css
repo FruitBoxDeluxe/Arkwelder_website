@@ -1,11 +1,10 @@
 body {
-	font-family: Tangerine;
+	font-family: 'Source Sans Pro', sans-serif;
 	background-color: #FDFBF5;
 }
 
 .heading {
-	font-size: 100px;
-	font-family: Tangerine;
+	font-size: 72px;
 	position: auto;
 	text-align: center;
 	
@@ -19,7 +18,7 @@ body {
 
 .navbar {
 	margin: 0 auto;
-	width: 610px;
+	width: 812px;
 	padding-top: 3px;
 	position: relative;
 }
@@ -35,8 +34,7 @@ body {
 	text-align: center;
 	vertical-align: middle;
 	line-height: 40px;
-	font-family: Tangerine;
-	font-size: 50px;
+	font-size: 32px;
 }
 
 
@@ -48,7 +46,6 @@ body {
 	margin: 0 auto;
 	position: relative;
 	text-align: left;
-	font-family: Tangerine;
 	display: block;
 }
 	
@@ -56,5 +53,5 @@ body {
 	padding-left: 20px;
 	padding-right: 20px;
 	text-align: justify;
-	font-size: 35px;
+	font-size: 16px;
 }
